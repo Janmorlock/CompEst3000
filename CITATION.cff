@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: CompEst3000
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jan
+    family-names: Morlock
+abstract: >-
+  A microbial composition estimator for co-cultures based on
+  a system model and standard bioreactor measurements.
+keywords:
+  - synthetic biology
+  - cybergenetic control
+  - co-culture
+license: MIT
+version: '1.0'
+date-released: '2024-05-06'

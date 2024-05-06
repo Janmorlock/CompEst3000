@@ -1,0 +1,6 @@
+numpy==1.26.1
+scipy==1.11.3
+matplotlib==3.8.0
+pandas==2.1.1
+openpyxl==3.1.2
+progpy==1.6
