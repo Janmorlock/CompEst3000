@@ -84,10 +84,4 @@ class Params:
             'fl_gr_temp_sigma_decay' : 0.7, #at 1 degree from the max temperature the temp uncertainty is approx 1/10th of the maximum temp uncertainty
             'fl_gr_temp2_prox_sigma_max' : 0.7, #this is the maximum value the uncertainty gets increased through proximity to 29 degrees
             'fl_gr_temp2_sigma_decay' : 1.0, #at 0.5 degree from the max temperature the temp uncertainty is approx 1/e of the maximum temp uncertainty
-
-            ### Parameters for the Controller
-            # PID gains
-            'kp' : 15,
-            'ki' : 0.01,
-            'kd' : 0,
         }
